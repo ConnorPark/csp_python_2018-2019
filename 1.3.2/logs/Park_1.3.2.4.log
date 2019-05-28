@@ -1,0 +1,23 @@
+# IPython log file
+
+# Thu, 06 Dec 2018 21:10:55
+%run 1.3.2/Park_1.3.2.py
+# Thu, 06 Dec 2018 21:11:06
+add_tip
+# Thu, 06 Dec 2018 21:11:11
+tip
+# Thu, 06 Dec 2018 21:12:31
+total
+# Thu, 06 Dec 2018 21:16:34
+print add_total
+# Thu, 06 Dec 2018 21:16:57
+1.0 == 1
+#[Out]# True
+# Thu, 06 Dec 2018 21:20:34
+clear
+# Thu, 06 Dec 2018 21:28:49
+# 9 (With the IPython shell is better for quick variable entering and the normal python is better for more complicated variables)
+# Thu, 06 Dec 2018 21:35:05
+# 12 (App inventor and scratch used little blocks rather than indentation)
+# Thu, 06 Dec 2018 21:35:09
+%logstop

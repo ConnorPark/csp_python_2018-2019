@@ -1,0 +1,49 @@
+# IPython log file
+
+#%logstart -ort 1.3.3/logs/Park_1.3.3.1.log
+# Mon, 10 Dec 2018 21:00:10
+%run 1.3.2/P
+# Mon, 10 Dec 2018 21:00:19
+%run 1.3.2/Park_1.3.2.py
+# Mon, 10 Dec 2018 21:00:45
+cd 1.3.3
+# Mon, 10 Dec 2018 21:01:11
+%run Park_1.3.3.py
+# Mon, 10 Dec 2018 21:01:28
+a = 3
+# Mon, 10 Dec 2018 21:01:31
+a**2
+#[Out]# 9
+# Mon, 10 Dec 2018 21:14:05
+a**2 >= 9 and not a>3
+#[Out]# True
+# Mon, 10 Dec 2018 21:15:15
+#prediction was wrong because a can be 3 and the equation would be true
+# Mon, 10 Dec 2018 21:16:45
+a+2 == 5 or a-1 != 3
+#[Out]# True
+# Mon, 10 Dec 2018 21:19:13
+x, y = (65,40)
+# Mon, 10 Dec 2018 21:24:29
+x>40 and x<130 and y=>100 and y<=120
+# Mon, 10 Dec 2018 21:24:41
+x>40 and x<130 and y>100 and y<120
+#[Out]# False
+# Mon, 10 Dec 2018 21:25:09
+x, y = (90,115)
+# Mon, 10 Dec 2018 21:30:16
+ge_limit_output(10)
+# Mon, 10 Dec 2018 21:30:22
+age_limit_output(10)
+# Mon, 10 Dec 2018 21:30:58
+cd 1.3.3
+# Mon, 10 Dec 2018 21:31:55
+cd 1.3.3
+# Mon, 10 Dec 2018 21:32:13
+%run 1.3.3/Park_1.3.3.py
+# Mon, 10 Dec 2018 21:32:33
+cd csp5-park-c-python
+# Mon, 10 Dec 2018 21:35:03
+%run Park_1.3.3.py
+# Mon, 10 Dec 2018 21:35:06
+%logstop

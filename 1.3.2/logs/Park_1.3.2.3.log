@@ -1,0 +1,41 @@
+# IPython log file
+
+# Thu, 06 Dec 2018 20:56:00
+# 8. Assingnment
+# Thu, 06 Dec 2018 20:56:29
+student_age=16
+# Thu, 06 Dec 2018 20:56:43
+student_age
+#[Out]# 16
+# Thu, 06 Dec 2018 20:56:55
+23**43
+#[Out]# 35834136918934220777541995677272642015423987712183913488967L
+# Thu, 06 Dec 2018 20:58:35
+abs9(-7)
+# Thu, 06 Dec 2018 20:58:43
+abs(-7)
+#[Out]# 7
+# Thu, 06 Dec 2018 20:59:54
+connor
+# Thu, 06 Dec 2018 21:01:08
+connor
+# Thu, 06 Dec 2018 21:01:55
+connor
+# Thu, 06 Dec 2018 21:02:33
+connor
+# Thu, 06 Dec 2018 21:04:00
+pasta
+# Thu, 06 Dec 2018 21:05:25
+%run 1.3.2/Park_1.3.2.py
+# Thu, 06 Dec 2018 21:05:30
+connor
+# Thu, 06 Dec 2018 21:05:41
+print connor
+# Thu, 06 Dec 2018 21:06:24
+connor = cooler than ryan
+# Thu, 06 Dec 2018 21:06:31
+connor=coolerthanryan
+# Thu, 06 Dec 2018 21:06:41
+connor
+# Thu, 06 Dec 2018 21:06:44
+exit

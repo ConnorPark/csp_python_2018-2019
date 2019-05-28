@@ -1,0 +1,10 @@
+# IPython log file
+
+# Wed, 05 Dec 2018 21:45:35
+student_age = 16
+# Wed, 05 Dec 2018 21:45:53
+# 8. Assignment
+# Wed, 05 Dec 2018 21:46:16
+(student_age = 16)
+# Wed, 05 Dec 2018 21:46:27
+%logstop

@@ -1,0 +1,19 @@
+# IPython log file
+
+%run 1.3.2/Park_1.3.2.py
+add_tip
+#[Out]# <function add_tip at 0x7f3142f19f50>
+tip
+a = add_tip(20,0.15)
+a
+#[Out]# 23.0
+add_tip(20, 0.15)
+#[Out]# 23.0
+add_tip(30, 0.15)
+#[Out]# 34.5
+# Fri, 07 Dec 2018 21:22:15
+hyp(3,4)
+# Fri, 07 Dec 2018 21:24:07
+%run 1.3.2/Park_1.3.2.py
+# Fri, 07 Dec 2018 21:24:14
+hyp(3,4)
